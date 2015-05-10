@@ -384,7 +384,7 @@ I am a final year student pursuing my bachelor of engineering and technology in 
 
  
 
-I have a working knowledge of Qt, qml, QtQuick development, python, java, android SDK, android application development. I am already well versed with community interactions/dynamics of OSS projects. I frequently use irc, mailing lists, version control systems such as git & host all my projects at github hence I can start early with the coding. I take summer of code as an opportunity to get engaged with KDE community as a contributor and continue this association even after GSoC.
+I have a working knowledge of Qt, qml, QtQuick development, python, java, android SDK, android application development. I am already well versed with community interactions/dynamics of OSS projects. I frequently use irc, mailing lists, version control systems such as git & host all my projects at [github](https://github.com/siddhism) hence I can start early with the coding. I take summer of code as an opportunity to get engaged with KDE community as a contributor and continue this association even after GSoC.
 
  
 
