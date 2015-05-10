@@ -388,7 +388,7 @@ I have a working knowledge of Qt, qml, QtQuick development, python, java, androi
 
  
 
-My open source contribution to Gcompris, the pull request which got merged can be found here. I created an activity for introduction to gravity concept.
+My open source contribution to Gcompris, the pull request which got merged can be found [here](https://github.com/bdoin/GCompris-qt/pull/64). I created an activity for introduction to gravity concept.
 
  
 
